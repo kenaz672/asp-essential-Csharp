@@ -1,0 +1,15 @@
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.exe
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.deps.json
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.runtimeconfig.json
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.dll
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\bin\Debug\net6.0\MyConsoleApp.pdb
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.csproj.AssemblyReference.cache
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.dll
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net6.0\refint\MyConsoleApp.dll
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.pdb
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net6.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\ifedi\OneDrive\Desktop\Start\Overview\MyConsoleApp\obj\Debug\net6.0\ref\MyConsoleApp.dll
