@@ -2,14 +2,14 @@
 // Using Timeout settings for RegEx in .NET
 using System.Text.RegularExpressions;
 using System.Diagnostics;
-
+const int MAX_REGEX_TIME = 1000; // Timeout value in milliseconds
 const string thestr = "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa";
 
 // Use a Stopwatch to show elapsed time
 Stopwatch sw;
 
 // TODO: Use a Timeout value when executing RegEx to guard against bad input
-
+TimeSpan Timeout = TimeSpan.FromMilliseconds(MAX_REGEX_TIME);
 
 // Run the expression and output the result
 try {
