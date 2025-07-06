@@ -21,3 +21,11 @@ return s;
 }
 return s.ToUpper();
 }
+string upperstr = CapWords.Replace(teststr1, new
+MatchEvaluator(MakeUpper));
+ Console.WriteLine(teststr1);
+ Console.WriteLine(upperstr);
+
+
+
+
